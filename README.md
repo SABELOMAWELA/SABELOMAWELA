@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Sabelo Mawela
+####  Front-end web designers
+![ Front-end web designers](https://github.com/SABELOMAWELA/SABELOMAWELA/blob/main/github%20banner.jpg)
 
-<!--
-**SABELOMAWELA/SABELOMAWELA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student pursuing a career in front-end web design. I'm originally from Phokeng, I like learning new things, and I'm eager to get some experience in the software engineering field.
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning gaining knowledge and undersatanding of JavaScript  
+
+
+
+
