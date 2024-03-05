@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FONT-END WEB DESIGNER
 ---------------------
 
-I'm a student pursuing a career in front-end web design. I'm originally from Phokeng, I like learning new things, and I'm eager to get some experience in the software engineering field.
+I'm a student pursuing a career in front-end web design. I'm originally from Phokeng but raised in Protria , I like learning new things, and I'm eager to get some experience in the software engineering field.
 
 * 🌍  I'm based in PHOKENG
 * ✉️  You can contact me at [MAWELAS63@GMAIL.COM](mailto:MAWELAS63@GMAIL.COM)
