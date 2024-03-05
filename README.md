@@ -17,7 +17,7 @@ I'm a student pursuing a career in front-end web design. I'm originally from Pho
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SABELOMAWELA)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SABELOMAWELA)](https://github.com/anuraghazra/github-readme-stats)
 
