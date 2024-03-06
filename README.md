@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sabelo Mawela
 =====================================================================================================================================
 
-FONT-END WEB DESIGNER
+FONT-END WEB DESIGNING STUDENT
 ---------------------
 
 I'm a student pursuing a career in front-end web design. I'm originally from Phokeng but raised in Pretoria , I like learning new things, and I'm eager to get some experience in the software engineering field.
